@@ -3,15 +3,35 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 5vmin;
   pointer-events: none;
+  position: absolute;
+  margin-left: -224px;
+  margin-top: 109px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 0.3s linear;
   }
 }
+
+
+
+.App-logo-stoped {
+  height: 5vmin;
+  pointer-events: none;
+  position: absolute;
+  margin-left: -224px;
+  margin-top: 109px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo-stoped {
+    animation: App-logo-spin infinite 0s linear;
+  }
+}
+
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +55,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+div {
+  position: relative;
+  display: inline;
+}
+.imtip {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.shakriman_img{
+  width: 150%;
+  height: 146%;
+}
+
+.learn_react{
+  text-align: center;
+  margin-top: 135px;
+  margin-right: -211px;
 }
