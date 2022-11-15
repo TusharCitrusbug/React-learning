@@ -30,3 +30,7 @@ conditional-rendering
 Form handling using form
 
 
+Redux  
+    - for javascript apps
+    - state container
+    - is predictable
