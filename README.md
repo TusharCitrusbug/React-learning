@@ -30,3 +30,38 @@ conditional-rendering
 Form handling using form
 
 
+React Hooks
+    1 important react hooks
+
+    2 useState
+        - used for manage states.
+
+    3 useEffect
+        - used to change data dynamically or add effects in dom with state for example we can chnge title with a state changing data.
+
+        - you can add effects to the out side of yourn component in dom which is called side effects.
+
+        - we can call an out side api using use Effect.
+
+        - deta fatching, dom changing.
+
+        - It re-render our component.
+
+        - we can use dependency list to re-render the component for specific changhe of usestates.
+
+        
+    4 useContext
+
+    5 useRef
+
+    6 useReducer
+
+    7 useMemo
+
+    8 useCallback
+
+    9 useImperativeHandle
+
+    10 useLayoutEffect
+
+    11 useDebugValue
