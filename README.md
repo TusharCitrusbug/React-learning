@@ -49,7 +49,13 @@ React Hooks
 
         - we can use dependency list to re-render the component for specific changhe of usestates.
 
-        
+        - Mounting and Unmounting the event listners. (clean up code  returning a function with unmounting the mounted events in useEffect)--imp
+
+- Data fatching from api using axio using useEffect --imp
+
+                ****important*** 
+ -practice data fatching using useEffect
+
     4 useContext
 
     5 useRef
