@@ -64,6 +64,23 @@ React Hooks
         - used for state management and alternative for useState.
         - It is related to array reducer function.
         - useReducer(reducer,initialState).
+        - useReducer with useContext.
+        - fetch data using useReducer.
+
+                ****important*** 
+ -practice data fatching using useReducer
+
+
+ difference between useState and useReducer when to use-----------------------???????
+
+ - if data is number,string or boolen  --useState   | if array or object --- useReducer
+ - if one or two state transitions ---useState      | multiple state transition --- useReducer
+ - local ---useState                                | global --- useReducer
+ - no business logic ---useState                    |complex business logic --- useReducer
+
+
+ 
+<!-- below baki---- -->
 
     6 useRef
 
@@ -71,8 +88,5 @@ React Hooks
 
     8 useCallback
 
-    9 useImperativeHandle
 
-    10 useLayoutEffect
 
-    11 useDebugValue

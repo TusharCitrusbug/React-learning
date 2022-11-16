@@ -1,13 +1,13 @@
 import React, { useContext } from 'react'
 import { CountContext } from '../App'
-export default function ComponentA() {
+export default function ComponentF() {
 
     const countContext = useContext(CountContext)
     return (
 
         <div>
             <div>
-                -----------------------CompA----------------------- <br />
+                -----------------------CompF----------------------- <br />
                 <div>count : {countContext.countState}</div>
                 <br />
                 <button onClick={() => countContext.countDispatch('increment')}>
