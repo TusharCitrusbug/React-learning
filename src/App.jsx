@@ -1,10 +1,10 @@
 
 import './App.css';
+import HomeContainer from './containers/HomeContainer'
 function App(props) {
   return (
     <div className="App">
-      <header className="App-header">
-      </header>
+      <HomeContainer />
     </div>
   );
 }

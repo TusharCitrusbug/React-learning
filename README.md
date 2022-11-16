@@ -34,3 +34,29 @@ Redux
     - for javascript apps
     - state container
     - is predictable
+    - manage the communication between multiple components.
+
+Topics of Redux:
+    1 Redux architecture.
+
+        \src
+            \components
+                - component.js
+            \containers
+                - container.js
+            \services
+                \actions
+                \reducers
+            constants.js
+        stores.js
+
+***************last video****************************
+https://www.youtube.com/watch?v=OlTxr6EKKS4&list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ&index=10
+    2 Props in Redux.
+    3 make necesary file and wraps.
+    4 action
+    5 Reducer
+    6 root reducer
+    7 container
+    8 middleware
+    9 selector
