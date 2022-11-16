@@ -57,10 +57,15 @@ React Hooks
  -practice data fatching using useEffect
 
     4 useContext
+        - used for prop forwarding in nested components.
+        - used for pass muyltiple context from parent to child.
 
-    5 useRef
+    5 useReducer
+        - used for state management and alternative for useState.
+        - It is related to array reducer function.
+        - useReducer(reducer,initialState).
 
-    6 useReducer
+    6 useRef
 
     7 useMemo
 
