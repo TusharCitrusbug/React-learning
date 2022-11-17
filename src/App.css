@@ -36,6 +36,7 @@
   border-radius: 4px;
   color: #fff;
   box-shadow: #333 0px 1px 5px;
+  margin-top: 205px;
 }
 
 .img-wrapper img {
@@ -61,14 +62,15 @@
 
 .add-to-cart img {
   width: 156px;
-  position: absolute;
+  position: fixed;
   right: 1%;
   top: 1%;
 }
 
+
 .cart-count {
 
-  position: absolute;
+  position: fixed;
   text-align: center;
   right: 83px;
   top: 22px;
@@ -90,4 +92,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+.d-flex {
+  display: flex;
+}
+
+.flex-auto {
+  flex: auto;
 }

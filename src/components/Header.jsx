@@ -1,7 +1,7 @@
 import React from 'react'
 
 export const Header = (props) => {
-    console.log(props);
+    // console.log(props.cartData, "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj");
     return (
         <div>
             <div className="add-to-cart">

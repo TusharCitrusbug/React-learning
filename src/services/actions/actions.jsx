@@ -6,6 +6,7 @@ export const addToCart = data => {
 }
 
 export const removeToCart = data => {
+    console.log(data, "remove to cart handler clicked");
     return {
         type: REMOVE_TO_CART, data: data
     }
