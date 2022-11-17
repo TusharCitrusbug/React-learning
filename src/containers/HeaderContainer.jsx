@@ -1,5 +1,5 @@
+import { Header } from '../components/Header';
 import { connect } from "react-redux";
-import { Home } from "../components/Home";
 import { addToCart } from "../services/actions/actions"
 
 const mapDispatchToProps = dispatch => ({
@@ -10,4 +10,4 @@ const mapStateToProps = state => ({
     cartData: state.cart
 })
 
-export default connect(mapStateToProps, mapDispatchToProps)(Home)
+export default connect(mapStateToProps, mapDispatchToProps)(Header)

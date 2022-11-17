@@ -1,10 +1,14 @@
 
 import './App.css';
 import HomeContainer from './containers/HomeContainer'
+import HeaderContainer from './containers/HeaderContainer'
+
 function App(props) {
   return (
     <div className="App">
-      <HomeContainer />
+      <HomeContainer productData={"tushar"} />
+      <HeaderContainer />
+
     </div>
   );
 }
