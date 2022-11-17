@@ -30,3 +30,30 @@ conditional-rendering
 Form handling using form
 
 
+Redux  
+    - for javascript apps
+    - state container
+    - is predictable
+    - manage the communication between multiple components.
+
+Topics of Redux:
+    1 Redux architecture.
+
+        \src
+            \components
+                - component.js
+            \containers
+                - container.js
+            \services
+                \actions
+                \reducers
+            constants.js
+        stores.js
+
+***************last video****************************
+https://www.youtube.com/watch?v=271tQskDiCg&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&index=17
+    
+    - creating multiple reducers and combine reducers in one and the create a store.
+
+    - middleware is the custom functionality to extend redux functionality.
+    
