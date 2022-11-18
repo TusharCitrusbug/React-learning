@@ -1,8 +1,9 @@
 import { BUY_CAKE } from "../constants/constants";
 
-function buyCake(params) {
+export function buyCake(number) {
     return {
-        type: BUY_CAKE, 
+        type: BUY_CAKE,
+        number: number
     }
 }
 
