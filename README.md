@@ -49,11 +49,26 @@ Topics of Redux:
                 \reducers
             constants.js
         stores.js
+- creating multiple reducers and combine reducers in one and the create a store.
+
+- middleware is the custom functionality to extend redux functionality.
+
 
 ***************last video****************************
-https://www.youtube.com/watch?v=271tQskDiCg&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&index=17
-    
-    - creating multiple reducers and combine reducers in one and the create a store.
+https://www.youtube.com/watch?v=prg6YzRcEvE&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&index=26
 
-    - middleware is the custom functionality to extend redux functionality.
+
+**********************remaining---redux-tool kit**********************
+
+
+https://www.youtube.com/watch?v=0awA5Uw6SJE&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3
     
+
+*****************react-projects********************
+
+https://www.youtube.com/watch?v=XxXyfkrP298&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
+
+
+********************redux_tutorial*******************
+
+https://www.youtube.com/watch?v=i3MWtUchXxc&list=PLbGui_ZYuhiipCzznFp8Lmpgt0Gt5lUm1&index=1
