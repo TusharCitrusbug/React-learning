@@ -72,3 +72,6 @@ https://www.youtube.com/watch?v=XxXyfkrP298&list=PL6QREj8te1P6wX9m5KnicnDVEucbOP
 ********************redux_tutorial*******************
 
 https://www.youtube.com/watch?v=i3MWtUchXxc&list=PLbGui_ZYuhiipCzznFp8Lmpgt0Gt5lUm1&index=1
+
+
+https://www.youtube.com/watch?v=LZCZtFem74o&list=PLB97yPrFwo5hQ97hvDfL96PVmS0DcqNN3
